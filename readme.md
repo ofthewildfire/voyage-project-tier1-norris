@@ -72,7 +72,7 @@ user, or a text string entered by your user.
 
 *Upon Load:*
 
-- [ ] Display a random Chuck Norris fact
+- [x] Display a random Chuck Norris fact
 
 *Other:*
 
